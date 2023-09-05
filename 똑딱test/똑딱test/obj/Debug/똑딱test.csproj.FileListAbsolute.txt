@@ -1,0 +1,8 @@
+C:\Users\LEE\Desktop\똑딱test\똑딱test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LEE\Desktop\똑딱test\똑딱test\obj\Debug\똑딱test.Form1.resources
+C:\Users\LEE\Desktop\똑딱test\똑딱test\obj\Debug\똑딱test.Properties.Resources.resources
+C:\Users\LEE\Desktop\똑딱test\똑딱test\obj\Debug\똑딱test.csproj.GenerateResource.Cache
+C:\Users\LEE\Desktop\똑딱test\똑딱test\bin\Debug\똑딱test.exe
+C:\Users\LEE\Desktop\똑딱test\똑딱test\bin\Debug\똑딱test.pdb
+C:\Users\LEE\Desktop\똑딱test\똑딱test\obj\Debug\똑딱test.exe
+C:\Users\LEE\Desktop\똑딱test\똑딱test\obj\Debug\똑딱test.pdb
